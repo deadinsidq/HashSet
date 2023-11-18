@@ -1,4 +1,4 @@
-import wtf.HashSetCustom;
+import hashset.HashSetCustom;
 
 public class Main {
     public static void main(String[] args) {
