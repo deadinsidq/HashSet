@@ -7,7 +7,6 @@ import hashset.HashSetCustom;
 import java.util.Arrays;
 
 public class HashSetCustomTest {
-
     @Test
     public void testAdd() {
         HashSetCustom<Integer> set = new HashSetCustom<>();
